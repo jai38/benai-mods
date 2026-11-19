@@ -1,0 +1,7 @@
+# Personal runtime data the mods write while running: never commit
+plugins/*/.claude/
+plugins/reflect/Documents/
+*.log
+node_modules/
+# Claude Code regenerates these types each load
+.claude-plugin/types/
